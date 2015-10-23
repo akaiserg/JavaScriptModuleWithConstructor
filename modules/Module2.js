@@ -1,6 +1,6 @@
 /**
  * Module2 was built in base a module pattern and   a  function  which  does  the work of the constructor.
- * This modules once  gets  loaded  can show a value  of an internal variable  by pressing a  button
+ * This module once  gets  loaded  can show a value  of an internal variable  by pressing a  button
  * and  this same internal variable can be set  by other button.
  */
 var Module2 = (function () {
