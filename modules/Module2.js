@@ -171,6 +171,6 @@ var Module2 = (function () {
         };
 
     }
-    // return the constructor
+    // Returns the constructor
     return constructor;
 })();
